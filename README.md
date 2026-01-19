@@ -85,7 +85,7 @@ As a Business Intelligence Analyst, the goal was to transform raw transactional,
 - Area chart: Weekly Orders by Start of Week  
 
 **Screenshot:**  
-![Customer Tooltip Overview](visuals/customer_tooltip_cards_area_chart.png)
+![Customer Tooltip Overview](visuals/customer_tooltip_overview.png)
 
 ---
 
