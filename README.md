@@ -73,13 +73,13 @@ As a Business Intelligence Analyst, the goal was to transform raw transactional,
 - Info Box: Highlights top revenue drivers per segment  
 
 **Screenshot:**  
-![Customer Orders by Income & Occupation](visuals/customer_detail_overview.png)
+![Customer Detail Overview](visuals/customer_detail_overview.png)
 
 ---
 
 ## 🛠️ Customer Tooltip (Page 5)
 
-**Purpose:** Hidden tooltip providing dynamic category-level metrics on hover.  
+**Purpose:** Hidden, dynamic tooltip providing category-level metrics on hover (appears when hovering over the Exec Dashboard).  
 **Key Visuals:**  
 - Multi-row card: Total Revenue, Profit, Orders, Returns, Return Rate  
 - Area chart: Weekly Orders by Start of Week  
@@ -174,5 +174,3 @@ This project demonstrates the **full lifecycle of a professional BI solution**. 
 - Publishing dashboards via Power BI Service with row-level security for stakeholders
 
 ---
-
-
