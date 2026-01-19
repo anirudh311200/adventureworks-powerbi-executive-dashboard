@@ -73,7 +73,7 @@ As a Business Intelligence Analyst, the goal was to transform raw transactional,
 - Info Box: Highlights top revenue drivers per segment  
 
 **Screenshot:**  
-![Customer Orders by Income & Occupation](visuals/customer_orders_income_occupation.png)
+![Customer Orders by Income & Occupation](visuals/customer_detail_overview.png)
 
 ---
 
